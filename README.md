@@ -1,6 +1,6 @@
-# Olá, eu sou o Yan 👋
+# Eae,aqui é o Yan 👋
 
-Estudante de **Data Science na FIAP**, em transição para a área de tecnologia depois de uma trajetória profissional em segurança, hospitalidade e logística. Aprendi cedo que dados estão em todo lugar — e que o diferencial está em saber lê-los.
+ Sou estudante de **Data Science na FIAP**, em transição para a área de tecnologia depois de uma trajetória profissional em segurança, hospitalidade e logística. Aprendi cedo que dados estão em todo lugar — e que o diferencial está em saber lê-los.
 
 Hoje construo projetos que combinam análise estatística, engenharia de dados e visualização para resolver problemas reais.
 
